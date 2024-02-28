@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 459d35118d268be489259cd18c13a00d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sport_2_Door_FL
+    100004: Sport_2_Door_FR
+    100006: Sport_2_Door_RL
+    100008: Sport_2_Door_RR
+    100010: Sport_2_Glass
+    100012: Sport_2_Hood
+    100014: Sport_2_LightGlass_FL
+    100016: Sport_2_LightGlass_FR
+    100018: Sport_2_LightGlass_RL
+    100020: Sport_2_LightGlass_RR
+    100022: Sport_2_Mudflaps
+    100024: Sport_2_Roof
+    100026: Sport_2_Trunk
+    100028: Sport_Dashboard (2)
+    400000: //RootNode
+    400002: Sport_2_Door_FL
+    400004: Sport_2_Door_FR
+    400006: Sport_2_Door_RL
+    400008: Sport_2_Door_RR
+    400010: Sport_2_Glass
+    400012: Sport_2_Hood
+    400014: Sport_2_LightGlass_FL
+    400016: Sport_2_LightGlass_FR
+    400018: Sport_2_LightGlass_RL
+    400020: Sport_2_LightGlass_RR
+    400022: Sport_2_Mudflaps
+    400024: Sport_2_Roof
+    400026: Sport_2_Trunk
+    400028: Sport_Dashboard (2)
+    2300000: //RootNode
+    2300002: Sport_2_Door_FL
+    2300004: Sport_2_Door_FR
+    2300006: Sport_2_Door_RL
+    2300008: Sport_2_Door_RR
+    2300010: Sport_2_Glass
+    2300012: Sport_2_Hood
+    2300014: Sport_2_LightGlass_FL
+    2300016: Sport_2_LightGlass_FR
+    2300018: Sport_2_LightGlass_RL
+    2300020: Sport_2_LightGlass_RR
+    2300022: Sport_2_Mudflaps
+    2300024: Sport_2_Roof
+    2300026: Sport_2_Trunk
+    2300028: Sport_Dashboard (2)
+    3300000: //RootNode
+    3300002: Sport_2_Door_FL
+    3300004: Sport_2_Door_FR
+    3300006: Sport_2_Door_RL
+    3300008: Sport_2_Door_RR
+    3300010: Sport_2_Glass
+    3300012: Sport_2_Hood
+    3300014: Sport_2_LightGlass_FL
+    3300016: Sport_2_LightGlass_FR
+    3300018: Sport_2_LightGlass_RL
+    3300020: Sport_2_LightGlass_RR
+    3300022: Sport_2_Mudflaps
+    3300024: Sport_2_Roof
+    3300026: Sport_2_Trunk
+    3300028: Sport_Dashboard (2)
+    4300000: Sport_2_Body (2)
+    4300002: Sport_2_LightGlass_FR
+    4300004: Sport_2_LightGlass_FL
+    4300006: Sport_2_LightGlass_RR
+    4300008: Sport_2_LightGlass_RL
+    4300010: Sport_2_Glass
+    4300012: Sport_2_Hood
+    4300014: Sport_2_Door_FR
+    4300016: Sport_Dashboard (2)
+    4300018: Sport_2_Door_RR
+    4300020: Sport_2_Roof
+    4300022: Sport_2_Door_FL
+    4300024: Sport_2_Door_RL
+    4300026: Sport_2_Trunk
+    4300028: Sport_2_Mudflaps
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sport_2_Body
+    second: {fileID: 2100000, guid: 57902d68c2e727a429bf4aafcf26118d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sport_2_Glass
+    second: {fileID: 2100000, guid: 8785ed131d7e27648959232f62282fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sport_2_Matte
+    second: {fileID: 2100000, guid: 50f26b8d42228ba4c91c41a5df0cef83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sport_2_Reverse_Lights
+    second: {fileID: 2100000, guid: b65646717adb2ea428664b0d5c343d58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sport_2_Tailights
+    second: {fileID: 2100000, guid: c5cf6ac18f43f5446a96f368bb0d524e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sport_Dashboard
+    second: {fileID: 2100000, guid: d113eb5b3c8d1e04d905d2cc21c57df8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

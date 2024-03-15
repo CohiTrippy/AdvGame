@@ -281,8 +281,8 @@
 <p class="styleAPI">public void <span class="styleAPIBold">SetSplatmap</span>(bool active, int splatIndex , int expand, int smoothLevel, float opacity)</p>
 <p><span class="styleAPIText">This will blend the road shape in the terrain splatmap</span>. Additionally the splatmap parameters will be passed for the terrain splat texture index, width expansion, smooth level and opacity </p>
 <p class="styleAPIText">&nbsp;</p>
-<p class="styleAPI">public void <span class="styleAPIBold">SetSplineStrength</span>(int markerIndex, float strength, bool refresh)</p>
-<p class="styleAPIText">Sets the spline strength of the marker at <span class="styleAPIValue">markerIndex</span> and refresh the road object.</p>
+<p class="styleAPI">public void <span class="styleAPIBold">SetSplineStrength</span>(int markerIndex, float strength)</p>
+<p class="styleAPIText">Sets the spline strength of the marker at <span class="styleAPIValue">markerIndex</span>.</p>
 <p>&nbsp;</p>
 <p class="styleAPI">public void <span class="styleAPIBold">SetTerrainDeformation</span>(bool value)</p>
 <p class="styleAPIText">Toggles on/off terrain deformation for this road according the passed <span class="styleAPIValue">value</span>.</p>
@@ -291,10 +291,7 @@
 <p class="styleAPIText">Toggles on/off terrain deformation for <span class="styleAPIValue">markerIndex</span>. This requires Refresh()</p>
 <p>&nbsp;</p>
 <p class="styleAPI">public void <span class="styleAPIBold">SetWidth</span>(float width)</p>
-<p class="styleAPIText">Sets the width of the road object. It is recommended to work with road types, instances of the specific road type will inherit the width of that road type so it is not necessary to set the width for each road object.</p>
-<p>&nbsp;</p>
-<p class="styleAPI">public void <span class="styleAPIBold">SetWidth</span>(float width, float markerIndex)</p>
-<p class="styleAPIText">Sets the width of a road object at markerIndex.</p>
+<p class="styleAPIText">Sets the width of the road object. It is recommended to use road types which includes the width.</p>
 <p>&nbsp;</p>
 <p class="styleAPI">public void <span class="styleAPIBold">SetVertexColor</span>(int markerIndex, Color color)</p>
 <p class="styleAPIText">Sets the vertex color of the marker at <span class="styleAPIValue">markerIndex</span>.</p>

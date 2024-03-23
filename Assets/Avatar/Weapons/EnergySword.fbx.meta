@@ -3,7 +3,12 @@ guid: c732fdeb17564ce45a42208486b506c6
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_EnergySword
+    second: {fileID: 2100000, guid: 0ed6b2a174c34524588c1ca38f2c8719, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

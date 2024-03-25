@@ -20712,6 +20712,287 @@ MonoBehaviour:
     baseConnectorIndex: -1
     continueOnConnections: 0
     ignoreOffsetsOnConnections: 0
+  - version: 2.0.0
+    name: Retaining Wall Foret
+    id: 1711340184.391529
+    timestamp: 1711340656.923057
+    objectType: 1
+    gameobjectGUID: 
+    textureGUID: 
+    m_distance: 2
+    uvx: 0.1
+    uvy: 1
+    position: 0
+    splinePosition: 0
+    selectedRotation: 0
+    randomYAxisMinRotation: 0
+    randomYAxisMaxRotation: 0
+    nodeList:
+    - {x: -3, y: -0.03}
+    - {x: 0, y: -0.01}
+    - {x: 1, y: 0}
+    - {x: 1.5, y: -10}
+    uvs:
+    - 0
+    - 0.3896794
+    - 0.4451034
+    - 1
+    uvDistances:
+    - 0
+    - 0.21409765
+    - 0.2854655
+    - 1
+    clampUVs: 0
+    clampUVY: 0
+    clampUVYValue: 1
+    terrainUVs: 0
+    reverseUVs: 0
+    totalDistance: 14.0126095
+    snapList: 00000000
+    snapWeightList:
+    - 0
+    - 0
+    - 0
+    - 1
+    colorList:
+    - {r: 1, g: 1, b: 1, a: 0}
+    - {r: 1, g: 1, b: 1, a: 0}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    gameobjectStartGUID: 
+    gameobjectEndGUID: 
+    align: 3
+    alignPoint: 0
+    weld: 1
+    combine: 0
+    combineInstantiated: 1
+    markerActive: 0
+    uvType: 0
+    uv: 1
+    randomObjects: 0
+    forwardStartOffset: 0
+    sidewaysOffset: 0
+    density: 0
+    goPath: 
+    startPath: 
+    endPath: 
+    texturePath: 
+    terrainTree: 0
+    minScale: 1
+    maxScale: 1
+    childOrderActive: 0
+    childOrder: 0
+    meshBoundsAlignment: 0
+    xPosition: 0
+    xPosition2: 0
+    relativeTo: 2
+    yPosition: 0
+    yRotation: 0
+    oldSidwaysDistance: 0
+    sidewaysDistanceUpdate: 0
+    uvYRound: 0
+    adjustUV: 1
+    collider: 1
+    boxcollider: 0
+    tangents: 0
+    sourceObject: {fileID: 0}
+    flipMesh: 0
+    startObject: {fileID: 0}
+    endObject: {fileID: 0}
+    connectionObject: {fileID: 0}
+    material: {fileID: 2100000, guid: 735425585b518834396cee84ce39bb9e, type: 2}
+    physicMaterial: {fileID: 0}
+    meshObjects: []
+    boxSize: {x: 0, y: 0}
+    boxOffset: {x: 0, y: 0}
+    includeStartSegment: 0
+    startSegmentOffset: 0
+    includeStartEdgeTris: 0
+    includeEndSegment: 0
+    endSegmentOffset: 0
+    includeEndEdgeTris: 0
+    adjustToRoadWidth: 0
+    xOffset: 0
+    startOffset: 0
+    endOffset: 0
+    defaultStartOffset: 0
+    defaultEndOffset: 0
+    totalZDistance: 0
+    middleZDistance: 2
+    startZDistance: 0
+    endZDistance: 0
+    minStartZ: 10000
+    maxStartZ: -10000
+    minMiddleZ: 10000
+    maxMiddleZ: -10000
+    minEndZ: 10000
+    maxEndZ: -10000
+    smoothStart: 0
+    smoothMiddle: 0
+    smoothEnd: 0
+    targetObject: {fileID: 0}
+    bridgeObject: 0
+    tunnelObject: 0
+    snapToTerrain: 0
+    layer: 0
+    deformationObject: 0
+    isStatic: 0
+    castShadows: 1
+    scaleToRoad: 1
+    splitInBatches: 0
+    randomRotation: {x: 0, y: 0, z: 0}
+    randomMinRotation: 0
+    randomMaxRotation: 0
+    minRandomRotationDistance: 0
+    maxRandomRotationDistance: 0
+    randomXPosition: 0
+    randomMinXPosition: 0
+    randomMaxXPosition: 0
+    minRandomXPositionDistance: 0
+    maxRandomXPositionDistance: 0
+    boxColliderScale: {x: 1, y: 1, z: 1}
+    randomYPosition: 0
+    randomMinYPosition: 0
+    randomMaxYPosition: 0
+    minRandomYPositionDistance: 0
+    maxRandomYPositionDistance: 0
+    bridgeHeight: 5
+    markerSplineController: 2
+    bridgeLength: 20
+    deformationOffset: 0
+    markerIndent: 0
+    markerSurrounding: 0
+    indentController: 0
+    excludeTerrainSplats: 0
+    scale: {x: 1, y: 1, z: 1}
+    indentExt: 0
+    category: 2
+    densityMap: {fileID: 0}
+    densitySize: 50
+    densitySize2: 50
+    densityStrength: 0.5
+    densityStrength2: 0.5
+    terrainNormal: 0
+    terrainNormal2: 1
+    childObjects: []
+    autoGenerate: 1
+    heightThreshold: 3
+    autogenerateStartOffset: 0
+    autogenerateEndOffset: 0
+    snapIndents: 0
+    snapIndentWidth: 0
+    cutHoles: 1
+    innerStartOffset: 0
+    innerEndOffset: 0
+    ignoredForRetainingWalls: 0
+    heightMaxThreshold: 10
+    heightMaxStartThreshold: 1
+    heightMaxEndThreshold: 1
+    xThresholdDistance: 5
+    angleThreshold: 10
+    connectionRatio: 1
+    retainingWall: 1
+    surroundingControl: 0
+    indentControl: 0
+    nodeListMirrored:
+    - {x: -1.5, y: -10}
+    - {x: -1, y: 0}
+    - {x: -0, y: -0.01}
+    - {x: 3, y: -0.03}
+    uvsMirrored:
+    - 1
+    - 0.4451034
+    - 0.3896794
+    - 0
+    snapWeightListMirrored:
+    - 1
+    - 0
+    - 0
+    - 0
+    colorListMirrored:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 0}
+    - {r: 1, g: 1, b: 1, a: 0}
+    uv4walls: 0
+    hasVertexColors: 0
+    deformationOffsetForward: 0
+    deformationOffsetSideways: 0
+    connectionObjectRotation: 0
+    subMesh: 0
+    acceptBarriers: 0
+    activeOnBridges: 1
+    dualSided: 1
+    mirrorType: 0
+    snapVertexColors: 0
+    minSnapRange: 0
+    maxSnapRange: 0
+    clampUV4: 0
+    geoStartOffset: 0
+    geoEndOffset: 0
+    strictRules: 0
+    startOverlapOffset: 0
+    endOverlapOffset: 0
+    lodLevels: 0
+    hardEdge: 00000100
+    hardEdgeMirrored: 
+    hardEdgePadding: 0
+    startEndCaps: 0
+    endCapUVs: []
+    startCapUVs: []
+    startCapTris: 
+    startCapTrisMirrored: 
+    startCapUVOffset: {x: 0.5, y: 0.5}
+    endCapUVOffset: {x: 0.5, y: 0.5}
+    startCapUVScale: 1
+    endCapUVScale: 1
+    startCapUVRotation: 0
+    endCapUVRotation: 0
+    namedChilds: 0
+    startSection: 0
+    endSection: 0
+    stepDown: 0
+    stepUp: 0
+    stepDistance: 0
+    startDirZOffset: 0
+    endDirZOffset: 0
+    buildOtherSideObject1: 0
+    defaultOtherSoId1: 0
+    buildOtherSideObject2: 0
+    defaultOtherSoId2: 0
+    buildOtherSideObjects: []
+    averageDistance: 1
+    randomUVx: 0
+    isUsedAsChild: 0
+    relativeToCenter: 0
+    shapeWeightsRelativeX: 1
+    easeInOutDistanceTerrainSnap: 0
+    startBoundsZ: 0
+    endBoundsZ: 0
+    buildOtherSideObjectChilds:
+    - soid: 1603743985.9864626
+      offset: 0
+    minSectionLength: 50
+    maxSlope: 45
+    tag: Untagged
+    selectedTag: 0
+    doubleSidedBendFlag: 0
+    recalculateNormals: 0
+    x1: -3
+    x2: 1.5
+    xf1: 0
+    xf2: 0
+    xf1Total: 0
+    xf2Total: 0
+    y1: 0
+    baseControllerFlag: 0
+    connectorEndOffset: {x: 0, y: 0, z: 0}
+    minBaseRotation: 0
+    maxBaseRotation: 0
+    baseChildIndex: -1
+    baseConnectorIndex: -1
+    continueOnConnections: 1
+    ignoreOffsetsOnConnections: 0
   ints: 
   roadPresets:
   - roadTypeName: Default Road
@@ -31892,6 +32173,986 @@ MonoBehaviour:
     cornerSementsSecondaryRoad: 4
     mainRoadsOnly: 0
     isRoadShape: 0
+    controlType: 0
+    vertexColor: {r: 0, g: 0, b: 0, a: 0}
+    trafficPosts: []
+    activeTrafficPostIndex: -1
+    showTrafficPosts: 0
+  - roadTypeName: LagoReforma
+    id: 1711335454.7668908
+    timestamp: 1711335668.2447023
+    roadWidth: 256
+    faceDistance: 2
+    angleTreshold: 45
+    uvTiling: 1
+    uv4Type: 0
+    type: 2
+    detailDistance: 50
+    planarUVs: 0
+    outerIndent: 0.5
+    roadShapeDataActive: 0
+    roadShapeData:
+      nodes:
+      - {x: -128, y: 0}
+      - {x: 128, y: 0}
+      hardEdge: 0000
+      priorityNodeIndexLeft: 0
+      priorityNodeIndexRight: 1
+      nodesV3: []
+      lanes: []
+      leftLanes: -1
+      rightLanes: -1
+      symmetrical: 1
+      leftSidewalkOffset: 0
+      rightSidewalkOffset: 0
+      outerLaneMarkingLeftIndex: -1
+      includeOuterlaneLeftInShape: 0
+      includeOuterlaneRightInShape: 0
+      outerLaneMarkingRightIndex: -1
+      outerOuterLaneMarkingLeftIndex: -1
+      outerOuterLaneMarkingRightIndex: -1
+      selectedNode: 0
+      selectedLaneNode: 0
+      isSymmetrical: 2
+      isset: 1
+    minSpeed: 45
+    maxSpeed: 55
+    speedLimit: 50
+    roadShape:
+    - {x: -128, y: 0}
+    - {x: 128, y: 0}
+    roadShapeExt: []
+    roadShapeExt2:
+    - {x: -128, y: 0}
+    - {x: 128, y: 0}
+    doConnectionTri: 0101
+    doConnectionTriExt: 
+    roadShapeUVs:
+    - 0
+    - 1
+    roadShapeExtUVs: []
+    roadShapeExtUVs2:
+    - 0
+    - 1
+    roadShapeUVs2:
+    - 0
+    - 1
+    preserveUVs: 0
+    hardEdge: 0000
+    roadShapeVecsString: 
+    defaultSidewalk: 0
+    sidewalks: 0
+    sidewalkHeight: 0.2
+    sidewalkWidth: 2
+    crosswalks: 0
+    crosswalkIntervals: 100
+    crosswalksIntersections: 0
+    crosswalkPrefab: {fileID: 0}
+    crosswalkHeightOffset: 0.01
+    crosswalkType: 1
+    roadMaterial: {fileID: 2100000, guid: 6d35a916cbdcfd64d83db1f265e7d5f9, type: 2}
+    roadMaterials: []
+    roadPhysicsMaterial: {fileID: 0}
+    roadPhysicsMaterials: []
+    connectionMaterial: {fileID: 0}
+    isSideObject: 0
+    isCustomRoad: 0
+    subSegments: 1
+    soData: []
+    soDataExt: []
+    soDataLog:
+    - id: 1464510904.3982377
+      active: 0
+    - id: 1482240682.273279
+      active: 0
+    - id: 1575640414.1523824
+      active: 0
+    - id: 1439970267.5877771
+      active: 0
+    - id: 3
+      active: 0
+    - id: 1513626610.6119134
+      active: 0
+    - id: 1492864192.677831
+      active: 0
+    - id: 1422205435.6632535
+      active: 0
+    - id: 1422205525.016364
+      active: 0
+    - id: 1587136571.1902595
+      active: 0
+    - id: 1422201194.1206512
+      active: 0
+    - id: 1456261907.8939893
+      active: 0
+    - id: 1501426670.841363
+      active: 0
+    - id: 1461096609.419792
+      active: 0
+    - id: 1
+      active: 0
+    - id: 1461163327.9873817
+      active: 0
+    - id: 1627383619.8935523
+      active: 0
+    - id: 2
+      active: 0
+    - id: 1475767569.9066167
+      active: 0
+    - id: 1575579583.384351
+      active: 0
+    - id: 1492274600.4877152
+      active: 0
+    - id: 1490533100.0728989
+      active: 0
+    - id: 1492351454.8959825
+      active: 0
+    - id: 1492886547.8844757
+      active: 0
+    - id: 1506755623.4085588
+      active: 0
+    - id: 1496597092.548931
+      active: 0
+    - id: 1496949275.520249
+      active: 0
+    - id: 1496950190.5545192
+      active: 0
+    - id: 1497771329.4354687
+      active: 0
+    - id: 1501401162.2714965
+      active: 0
+    - id: 1496592239.599358
+      active: 0
+    - id: 1497083851.7107809
+      active: 0
+    - id: 1496864307.0503993
+      active: 0
+    - id: 1496594489.694056
+      active: 0
+    - id: 1501083060.894909
+      active: 0
+    - id: 1492633790.5171874
+      active: 0
+    - id: 1477490107.45513
+      active: 0
+    - id: 1615567565.3400443
+      active: 0
+    - id: 1604836083.8996148
+      active: 0
+    - id: 1603743985.9864626
+      active: 0
+    - id: 1492273168.831829
+      active: 0
+    - id: 1501866791.6741104
+      active: 0
+    - id: 1501173983.5210633
+      active: 0
+    - id: 1462981249.4311268
+      active: 0
+    - id: 1422283787.149423
+      active: 0
+    - id: 1422280172.2846642
+      active: 0
+    - id: 1501519166.9649243
+      active: 0
+    - id: 1484762355.2292368
+      active: 0
+    - id: 1464957000.801562
+      active: 0
+    - id: 1466451290.7593656
+      active: 0
+    - id: 1501510160.2551785
+      active: 0
+    - id: 1456047967.1928487
+      active: 0
+    - id: 1455979697.5109153
+      active: 0
+    - id: 1497036892.9481807
+      active: 0
+    - id: 1501186258.0972695
+      active: 0
+    - id: 1501186335.3634262
+      active: 0
+    - id: 1455984277.9008987
+      active: 0
+    - id: 1603904449.5714228
+      active: 0
+    - id: 6
+      active: 0
+    - id: 5
+      active: 0
+    - id: 1455632234.3322053
+      active: 0
+    - id: 1455632482.996428
+      active: 0
+    - id: 1455632818.7536323
+      active: 0
+    - id: 1604522831.4235895
+      active: 0
+    - id: 1575646819.2434592
+      active: 0
+    - id: 1496500505.889294
+      active: 0
+    - id: 1575580284.127595
+      active: 0
+    - id: 1589389456.2844396
+      active: 0
+    - id: 1615554789.3625984
+      active: 0
+    - id: 1591210872.58933
+      active: 0
+    - id: 1591211277.2413483
+      active: 0
+    - id: 1492275297.1925645
+      active: 0
+    - id: 1505407226.4160588
+      active: 0
+    - id: 1438703293.2729063
+      active: 0
+    - id: 1499500677.1240554
+      active: 0
+    - id: 1498378582.6466486
+      active: 0
+    - id: 1595964581.6688309
+      active: 0
+    - id: 1463296109.0005498
+      active: 0
+    - id: 1492873209.4315598
+      active: 0
+    - id: 1477826774.0961607
+      active: 0
+    - id: 1461096279.6289291
+      active: 0
+    layer: 0
+    isStatic: 1
+    tag: Untagged
+    splatMapActive: 0
+    splatIndex: 0
+    expandLevel: 0
+    smoothLevel: 1
+    splatOpacity: 1
+    followTerrainContours: 0
+    terrainContoursOffset: 5
+    terrainDeformation: 1
+    defaultIndent: 2
+    defaultSurrounding: 2
+    castShadow: 0
+    randomnessFlag: 0
+    randomYPosition: 0
+    randomMinYPosition: -0.02
+    randomMaxYPosition: 0.02
+    minRandomYPositionDistance: 15
+    maxRandomYPositionDistance: 35
+    randomMinRotation: -1
+    randomMaxRotation: 1
+    minRandomRotationDistance: 15
+    maxRandomRotationDistance: 30
+    vegetationStudioMaskLineActive: 1
+    vegetationStudioGrassPerimeter: 2
+    vegetationStudioPlantPerimeter: 3
+    vegetationStudioTreePerimeter: 4
+    vegetationStudioObjectPerimeter: 3
+    vegetationStudioLargeObjectPerimeter: 4
+    vegetationStudioBiomeMaskActive: 0
+    vegetationStudioBiomeMaskDistance: 0
+    vegetationStudioBiomeMaskBlendDistance: 0
+    vegetationStudioBiomeMaskNoiseScale: 0
+    decalPresets: []
+    decalClassPresets: []
+    defaultRamp: 0
+    extrusionType: 0
+    extrusionDistance: 10
+    fixedDistance: 5
+    connectionAngle: 25
+    connectionRadius: 10
+    oneWay: 0
+    cornerRadiusMainRoad: 3
+    cornerSementsMainRoad: 6
+    cornerRadiusSecondaryRoad: 3
+    cornerRadiusSecondaryCurvature: 0.5
+    cornerSementsSecondaryRoad: 6
+    mainRoadsOnly: 0
+    isRoadShape: 1
+    controlType: 0
+    vertexColor: {r: 1, g: 1, b: 1, a: 1}
+    trafficPosts: []
+    activeTrafficPostIndex: -1
+    showTrafficPosts: 0
+  - roadTypeName: ForestStreet01
+    id: 1711336243.8071756
+    timestamp: 1711336543.37589
+    roadWidth: 8
+    faceDistance: 4
+    angleTreshold: 45
+    uvTiling: 1
+    uv4Type: 0
+    type: 0
+    detailDistance: 50
+    planarUVs: 0
+    outerIndent: 0.5
+    roadShapeDataActive: 1
+    roadShapeData:
+      nodes:
+      - {x: -4, y: 0}
+      - {x: 4, y: 0}
+      hardEdge: 0000
+      priorityNodeIndexLeft: 0
+      priorityNodeIndexRight: 1
+      nodesV3: []
+      lanes: []
+      leftLanes: -1
+      rightLanes: -1
+      symmetrical: 1
+      leftSidewalkOffset: 0
+      rightSidewalkOffset: 0
+      outerLaneMarkingLeftIndex: -1
+      includeOuterlaneLeftInShape: 0
+      includeOuterlaneRightInShape: 0
+      outerLaneMarkingRightIndex: -1
+      outerOuterLaneMarkingLeftIndex: -1
+      outerOuterLaneMarkingRightIndex: -1
+      selectedNode: 0
+      selectedLaneNode: 0
+      isSymmetrical: 2
+      isset: 1
+    minSpeed: 45
+    maxSpeed: 55
+    speedLimit: 50
+    roadShape:
+    - {x: -4, y: 0}
+    - {x: 4, y: 0}
+    roadShapeExt: []
+    roadShapeExt2:
+    - {x: -4, y: 0}
+    - {x: 4, y: 0}
+    doConnectionTri: 0101
+    doConnectionTriExt: 
+    roadShapeUVs:
+    - 0
+    - 1
+    roadShapeExtUVs: []
+    roadShapeExtUVs2:
+    - 0
+    - 1
+    roadShapeUVs2:
+    - 0
+    - 1
+    preserveUVs: 0
+    hardEdge: 0000
+    roadShapeVecsString: 
+    defaultSidewalk: 0
+    sidewalks: 0
+    sidewalkHeight: 0.2
+    sidewalkWidth: 2
+    crosswalks: 0
+    crosswalkIntervals: 0
+    crosswalksIntersections: 0
+    crosswalkPrefab: {fileID: 0}
+    crosswalkHeightOffset: 0
+    crosswalkType: 1
+    roadMaterial: {fileID: 2100000, guid: 55158e4183a20994b8d26d5f420646c0, type: 2}
+    roadMaterials: []
+    roadPhysicsMaterial: {fileID: 0}
+    roadPhysicsMaterials: []
+    connectionMaterial: {fileID: 0}
+    isSideObject: 0
+    isCustomRoad: 0
+    subSegments: 1
+    soData: []
+    soDataExt: []
+    soDataLog:
+    - id: 1464510904.3982377
+      active: 0
+    - id: 1482240682.273279
+      active: 0
+    - id: 1575640414.1523824
+      active: 0
+    - id: 1439970267.5877771
+      active: 0
+    - id: 3
+      active: 0
+    - id: 1513626610.6119134
+      active: 0
+    - id: 1492864192.677831
+      active: 0
+    - id: 1422205435.6632535
+      active: 0
+    - id: 1422205525.016364
+      active: 0
+    - id: 1587136571.1902595
+      active: 0
+    - id: 1422201194.1206512
+      active: 0
+    - id: 1456261907.8939893
+      active: 0
+    - id: 1501426670.841363
+      active: 0
+    - id: 1461096609.419792
+      active: 0
+    - id: 1
+      active: 0
+    - id: 1461163327.9873817
+      active: 0
+    - id: 1627383619.8935523
+      active: 0
+    - id: 2
+      active: 0
+    - id: 1475767569.9066167
+      active: 0
+    - id: 1575579583.384351
+      active: 0
+    - id: 1492274600.4877152
+      active: 0
+    - id: 1490533100.0728989
+      active: 0
+    - id: 1492351454.8959825
+      active: 0
+    - id: 1492886547.8844757
+      active: 0
+    - id: 1506755623.4085588
+      active: 0
+    - id: 1496597092.548931
+      active: 0
+    - id: 1496949275.520249
+      active: 0
+    - id: 1496950190.5545192
+      active: 0
+    - id: 1497771329.4354687
+      active: 0
+    - id: 1501401162.2714965
+      active: 0
+    - id: 1496592239.599358
+      active: 0
+    - id: 1497083851.7107809
+      active: 0
+    - id: 1496864307.0503993
+      active: 0
+    - id: 1496594489.694056
+      active: 0
+    - id: 1501083060.894909
+      active: 0
+    - id: 1492633790.5171874
+      active: 0
+    - id: 1477490107.45513
+      active: 0
+    - id: 1615567565.3400443
+      active: 0
+    - id: 1604836083.8996148
+      active: 0
+    - id: 1603743985.9864626
+      active: 0
+    - id: 1492273168.831829
+      active: 0
+    - id: 1501866791.6741104
+      active: 0
+    - id: 1501173983.5210633
+      active: 0
+    - id: 1462981249.4311268
+      active: 0
+    - id: 1422283787.149423
+      active: 0
+    - id: 1422280172.2846642
+      active: 0
+    - id: 1501519166.9649243
+      active: 0
+    - id: 1484762355.2292368
+      active: 0
+    - id: 1464957000.801562
+      active: 0
+    - id: 1466451290.7593656
+      active: 0
+    - id: 1501510160.2551785
+      active: 0
+    - id: 1456047967.1928487
+      active: 0
+    - id: 1455979697.5109153
+      active: 0
+    - id: 1497036892.9481807
+      active: 0
+    - id: 1501186258.0972695
+      active: 0
+    - id: 1501186335.3634262
+      active: 0
+    - id: 1455984277.9008987
+      active: 0
+    - id: 1603904449.5714228
+      active: 0
+    - id: 6
+      active: 0
+    - id: 5
+      active: 0
+    - id: 1455632234.3322053
+      active: 0
+    - id: 1455632482.996428
+      active: 0
+    - id: 1455632818.7536323
+      active: 0
+    - id: 1604522831.4235895
+      active: 0
+    - id: 1575646819.2434592
+      active: 0
+    - id: 1496500505.889294
+      active: 0
+    - id: 1575580284.127595
+      active: 0
+    - id: 1589389456.2844396
+      active: 0
+    - id: 1615554789.3625984
+      active: 1
+    - id: 1591210872.58933
+      active: 0
+    - id: 1591211277.2413483
+      active: 0
+    - id: 1492275297.1925645
+      active: 0
+    - id: 1505407226.4160588
+      active: 0
+    - id: 1438703293.2729063
+      active: 0
+    - id: 1499500677.1240554
+      active: 0
+    - id: 1498378582.6466486
+      active: 0
+    - id: 1595964581.6688309
+      active: 0
+    - id: 1463296109.0005498
+      active: 0
+    - id: 1492873209.4315598
+      active: 0
+    - id: 1477826774.0961607
+      active: 0
+    - id: 1461096279.6289291
+      active: 0
+    layer: 0
+    isStatic: 1
+    tag: Untagged
+    splatMapActive: 0
+    splatIndex: 0
+    expandLevel: 0
+    smoothLevel: 1
+    splatOpacity: 1
+    followTerrainContours: 0
+    terrainContoursOffset: 5
+    terrainDeformation: 1
+    defaultIndent: 3
+    defaultSurrounding: 3
+    castShadow: 1
+    randomnessFlag: 0
+    randomYPosition: 0
+    randomMinYPosition: -0.02
+    randomMaxYPosition: 0.02
+    minRandomYPositionDistance: 15
+    maxRandomYPositionDistance: 35
+    randomMinRotation: -1
+    randomMaxRotation: 1
+    minRandomRotationDistance: 15
+    maxRandomRotationDistance: 30
+    vegetationStudioMaskLineActive: 0
+    vegetationStudioGrassPerimeter: 0
+    vegetationStudioPlantPerimeter: 0
+    vegetationStudioTreePerimeter: 0
+    vegetationStudioObjectPerimeter: 0
+    vegetationStudioLargeObjectPerimeter: 0
+    vegetationStudioBiomeMaskActive: 0
+    vegetationStudioBiomeMaskDistance: 0
+    vegetationStudioBiomeMaskBlendDistance: 0
+    vegetationStudioBiomeMaskNoiseScale: 0
+    decalPresets: []
+    decalClassPresets: []
+    defaultRamp: 0
+    extrusionType: 0
+    extrusionDistance: 0
+    fixedDistance: 0
+    connectionAngle: 0
+    connectionRadius: 0
+    oneWay: 0
+    cornerRadiusMainRoad: 1
+    cornerSementsMainRoad: 4
+    cornerRadiusSecondaryRoad: 1
+    cornerRadiusSecondaryCurvature: 0.1
+    cornerSementsSecondaryRoad: 4
+    mainRoadsOnly: 0
+    isRoadShape: 1
+    controlType: 0
+    vertexColor: {r: 0, g: 0, b: 0, a: 0}
+    trafficPosts: []
+    activeTrafficPostIndex: -1
+    showTrafficPosts: 0
+  - roadTypeName: ForestStreet_02
+    id: 1711339058.9850795
+    timestamp: 1711339073.7136352
+    roadWidth: 8
+    faceDistance: 2
+    angleTreshold: 45
+    uvTiling: 1
+    uv4Type: 0
+    type: 0
+    detailDistance: 50
+    planarUVs: 0
+    outerIndent: 0.5
+    roadShapeDataActive: 1
+    roadShapeData:
+      nodes:
+      - {x: -4, y: 0}
+      - {x: 4, y: 0}
+      hardEdge: 0000
+      priorityNodeIndexLeft: 0
+      priorityNodeIndexRight: 1
+      nodesV3: []
+      lanes: []
+      leftLanes: -1
+      rightLanes: -1
+      symmetrical: 1
+      leftSidewalkOffset: 0
+      rightSidewalkOffset: 0
+      outerLaneMarkingLeftIndex: -1
+      includeOuterlaneLeftInShape: 0
+      includeOuterlaneRightInShape: 0
+      outerLaneMarkingRightIndex: -1
+      outerOuterLaneMarkingLeftIndex: -1
+      outerOuterLaneMarkingRightIndex: -1
+      selectedNode: 0
+      selectedLaneNode: 0
+      isSymmetrical: 2
+      isset: 1
+    minSpeed: 45
+    maxSpeed: 55
+    speedLimit: 50
+    roadShape:
+    - {x: -4, y: 0}
+    - {x: 4, y: 0}
+    roadShapeExt: []
+    roadShapeExt2:
+    - {x: -4, y: 0}
+    - {x: 4, y: 0}
+    doConnectionTri: 0101
+    doConnectionTriExt: 
+    roadShapeUVs:
+    - 0
+    - 1
+    roadShapeExtUVs: []
+    roadShapeExtUVs2:
+    - 0
+    - 1
+    roadShapeUVs2:
+    - 0
+    - 1
+    preserveUVs: 0
+    hardEdge: 0000
+    roadShapeVecsString: 
+    defaultSidewalk: 0
+    sidewalks: 0
+    sidewalkHeight: 0.2
+    sidewalkWidth: 2
+    crosswalks: 0
+    crosswalkIntervals: 0
+    crosswalksIntersections: 0
+    crosswalkPrefab: {fileID: 0}
+    crosswalkHeightOffset: 0
+    crosswalkType: 1
+    roadMaterial: {fileID: 2100000, guid: 55158e4183a20994b8d26d5f420646c0, type: 2}
+    roadMaterials: []
+    roadPhysicsMaterial: {fileID: 0}
+    roadPhysicsMaterials: []
+    connectionMaterial: {fileID: 0}
+    isSideObject: 0
+    isCustomRoad: 0
+    subSegments: 1
+    soData: []
+    soDataExt: []
+    soDataLog:
+    - id: 1464510904.3982377
+      active: 0
+    - id: 1482240682.273279
+      active: 0
+    - id: 1575640414.1523824
+      active: 0
+    - id: 1439970267.5877771
+      active: 0
+    - id: 3
+      active: 0
+    - id: 1513626610.6119134
+      active: 0
+    - id: 1492864192.677831
+      active: 0
+    - id: 1422205435.6632535
+      active: 0
+    - id: 1422205525.016364
+      active: 0
+    - id: 1587136571.1902595
+      active: 0
+    - id: 1422201194.1206512
+      active: 0
+    - id: 1456261907.8939893
+      active: 0
+    - id: 1501426670.841363
+      active: 0
+    - id: 1461096609.419792
+      active: 0
+    - id: 1
+      active: 0
+    - id: 1461163327.9873817
+      active: 0
+    - id: 1627383619.8935523
+      active: 0
+    - id: 2
+      active: 0
+    - id: 1475767569.9066167
+      active: 0
+    - id: 1575579583.384351
+      active: 0
+    - id: 1492274600.4877152
+      active: 0
+    - id: 1490533100.0728989
+      active: 0
+    - id: 1492351454.8959825
+      active: 0
+    - id: 1492886547.8844757
+      active: 0
+    - id: 1506755623.4085588
+      active: 0
+    - id: 1496597092.548931
+      active: 0
+    - id: 1496949275.520249
+      active: 0
+    - id: 1496950190.5545192
+      active: 0
+    - id: 1497771329.4354687
+      active: 0
+    - id: 1501401162.2714965
+      active: 0
+    - id: 1496592239.599358
+      active: 0
+    - id: 1497083851.7107809
+      active: 0
+    - id: 1496864307.0503993
+      active: 0
+    - id: 1496594489.694056
+      active: 0
+    - id: 1501083060.894909
+      active: 0
+    - id: 1492633790.5171874
+      active: 0
+    - id: 1477490107.45513
+      active: 0
+    - id: 1615567565.3400443
+      active: 0
+    - id: 1604836083.8996148
+      active: 0
+    - id: 1603743985.9864626
+      active: 0
+    - id: 1492273168.831829
+      active: 0
+    - id: 1501866791.6741104
+      active: 0
+    - id: 1501173983.5210633
+      active: 0
+    - id: 1462981249.4311268
+      active: 0
+    - id: 1422283787.149423
+      active: 0
+    - id: 1422280172.2846642
+      active: 0
+    - id: 1501519166.9649243
+      active: 0
+    - id: 1484762355.2292368
+      active: 0
+    - id: 1464957000.801562
+      active: 0
+    - id: 1466451290.7593656
+      active: 0
+    - id: 1501510160.2551785
+      active: 0
+    - id: 1456047967.1928487
+      active: 0
+    - id: 1455979697.5109153
+      active: 0
+    - id: 1497036892.9481807
+      active: 0
+    - id: 1501186258.0972695
+      active: 0
+    - id: 1501186335.3634262
+      active: 0
+    - id: 1455984277.9008987
+      active: 0
+    - id: 1603904449.5714228
+      active: 0
+    - id: 6
+      active: 0
+    - id: 5
+      active: 0
+    - id: 1455632234.3322053
+      active: 0
+    - id: 1455632482.996428
+      active: 0
+    - id: 1455632818.7536323
+      active: 0
+    - id: 1604522831.4235895
+      active: 0
+    - id: 1575646819.2434592
+      active: 0
+    - id: 1496500505.889294
+      active: 0
+    - id: 1575580284.127595
+      active: 0
+    - id: 1589389456.2844396
+      active: 0
+    - id: 1615554789.3625984
+      active: 0
+    - id: 1591210872.58933
+      active: 0
+    - id: 1591211277.2413483
+      active: 0
+    - id: 1492275297.1925645
+      active: 0
+    - id: 1505407226.4160588
+      active: 0
+    - id: 1438703293.2729063
+      active: 0
+    - id: 1499500677.1240554
+      active: 0
+    - id: 1498378582.6466486
+      active: 0
+    - id: 1595964581.6688309
+      active: 0
+    - id: 1463296109.0005498
+      active: 0
+    - id: 1492873209.4315598
+      active: 0
+    - id: 1477826774.0961607
+      active: 0
+    - id: 1461096279.6289291
+      active: 0
+    layer: 0
+    isStatic: 0
+    tag: Untagged
+    splatMapActive: 0
+    splatIndex: 0
+    expandLevel: 0
+    smoothLevel: 1
+    splatOpacity: 1
+    followTerrainContours: 0
+    terrainContoursOffset: 5
+    terrainDeformation: 1
+    defaultIndent: 2
+    defaultSurrounding: 2
+    castShadow: 0
+    randomnessFlag: 0
+    randomYPosition: 0
+    randomMinYPosition: -0.02
+    randomMaxYPosition: 0.02
+    minRandomYPositionDistance: 15
+    maxRandomYPositionDistance: 35
+    randomMinRotation: -1
+    randomMaxRotation: 1
+    minRandomRotationDistance: 15
+    maxRandomRotationDistance: 30
+    vegetationStudioMaskLineActive: 0
+    vegetationStudioGrassPerimeter: 0
+    vegetationStudioPlantPerimeter: 0
+    vegetationStudioTreePerimeter: 0
+    vegetationStudioObjectPerimeter: 0
+    vegetationStudioLargeObjectPerimeter: 0
+    vegetationStudioBiomeMaskActive: 0
+    vegetationStudioBiomeMaskDistance: 0
+    vegetationStudioBiomeMaskBlendDistance: 0
+    vegetationStudioBiomeMaskNoiseScale: 0
+    decalPresets:
+    - {fileID: 0}
+    - {fileID: 0}
+    decalClassPresets:
+    - id: 177060749
+      type: 0
+      name: 
+      roadType1: 0
+      roadType2: 0
+      connection: 0
+      decalPrefab: {fileID: 1914383544300886, guid: 16746686a7d50ef4abc37fd0690b0a1d,
+        type: 3}
+      baseWidth: 8
+      meshWidth: 7.9498
+      scale: 1
+      localScale: {x: 1, y: 1, z: 1}
+      priority: 0
+      collapsed: 1
+      heightOffset: 0.005
+      material: {fileID: 0}
+      uvLeftTop: {x: 0.45, y: 0.75}
+      uvRightBottom: {x: 0.55, y: 0.25}
+      width: 0
+      length: 0
+      xOffset: 0
+      startOffset: 0
+      endOffset: 0
+      uvBreakPoints: []
+      distances: []
+      laneDirecionType: 0
+      distance: 50
+      distanceToIntersection: 25
+      distanceAtIntersection: 25
+      uvLeftTop1: {x: 0.45, y: 0.75}
+      uvRightBottom1: {x: 0.55, y: 0.25}
+      uvLeftTop2: {x: 0.45, y: 0.75}
+      uvRightBottom2: {x: 0.55, y: 0.25}
+      width1: 0
+      width2: 0
+      shape: []
+      shapeUVs: []
+      startEndSections: 0
+      interpolatedStartEndSections: 0
+    - id: 600673328
+      type: 0
+      name: 
+      roadType1: 0
+      roadType2: 0
+      connection: 0
+      decalPrefab: {fileID: 1914383544300886, guid: 1b67e3a92104e3d4299483bf4a31cae3,
+        type: 3}
+      baseWidth: 8
+      meshWidth: 7.9498
+      scale: 1
+      localScale: {x: 1, y: 1, z: 1}
+      priority: 0
+      collapsed: 1
+      heightOffset: 0.005
+      material: {fileID: 0}
+      uvLeftTop: {x: 0.45, y: 0.75}
+      uvRightBottom: {x: 0.55, y: 0.25}
+      width: 0
+      length: 0
+      xOffset: 0
+      startOffset: 0
+      endOffset: 0
+      uvBreakPoints: []
+      distances: []
+      laneDirecionType: 0
+      distance: 50
+      distanceToIntersection: 25
+      distanceAtIntersection: 25
+      uvLeftTop1: {x: 0.45, y: 0.75}
+      uvRightBottom1: {x: 0.55, y: 0.25}
+      uvLeftTop2: {x: 0.45, y: 0.75}
+      uvRightBottom2: {x: 0.55, y: 0.25}
+      width1: 0
+      width2: 0
+      shape: []
+      shapeUVs: []
+      startEndSections: 0
+      interpolatedStartEndSections: 0
+    defaultRamp: 0
+    extrusionType: 0
+    extrusionDistance: 0
+    fixedDistance: 0
+    connectionAngle: 0
+    connectionRadius: 0
+    oneWay: 0
+    cornerRadiusMainRoad: 1
+    cornerSementsMainRoad: 4
+    cornerRadiusSecondaryRoad: 1
+    cornerRadiusSecondaryCurvature: 0.1
+    cornerSementsSecondaryRoad: 4
+    mainRoadsOnly: 0
+    isRoadShape: 1
     controlType: 0
     vertexColor: {r: 0, g: 0, b: 0, a: 0}
     trafficPosts: []

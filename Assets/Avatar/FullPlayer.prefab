@@ -222,6 +222,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1408892341816973928}
     m_Modifications:
+    - target: {fileID: 734904165961236687, guid: 68cf2c369c0e42a438454f0bd3601d03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795294032325245333, guid: 68cf2c369c0e42a438454f0bd3601d03,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5186241012770861105, guid: 68cf2c369c0e42a438454f0bd3601d03,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -272,6 +282,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6685900773441300026, guid: 68cf2c369c0e42a438454f0bd3601d03,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7316219898747872563, guid: 68cf2c369c0e42a438454f0bd3601d03,
         type: 3}
       propertyPath: m_IsActive
@@ -281,6 +296,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PlayerArmature
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375807899483321906, guid: 68cf2c369c0e42a438454f0bd3601d03,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

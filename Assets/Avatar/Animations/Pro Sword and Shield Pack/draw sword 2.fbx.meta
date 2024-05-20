@@ -17,14 +17,12 @@ ModelImporter:
     removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
-    rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
-      does not match position in animation file:\n\t'mixamorig:LeftUpLeg' : position
-      error = 483.791382 mm\n\t'mixamorig:LeftLeg' : position error = 1741.025146
-      mm\n\t'mixamorig:LeftFoot' : position error = 1699.885986 mm\n\t'mixamorig:LeftToeBase'
-      : position error = 784.733215 mm\n\t'mixamorig:RightUpLeg' : position error
-      = 483.834076 mm\n\t'mixamorig:RightLeg' : position error = 1741.553467 mm\n\t'mixamorig:RightFoot'
-      : position error = 1699.923828 mm\n\t'mixamorig:RightToeBase' : position error
-      = 784.375305 mm\n"
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
+      copied configuration does not match position in animation file:\n\t'mixamorig:LeftUpLeg'
+      : position error = 3.155489 mm\n\t'mixamorig:LeftLeg' : position error = 8.724492
+      mm\n\t'mixamorig:LeftFoot' : position error = 8.117584 mm\n\t'mixamorig:RightUpLeg'
+      : position error = 2.205421 mm\n\t'mixamorig:RightLeg' : position error = 8.635366
+      mm\n\t'mixamorig:RightFoot' : position error = 8.119678 mm\n"
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -53,13 +51,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 1
-      loopBlendPositionXZ: 0
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 1
-      keepOriginalPositionY: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 1
-      heightFromFeet: 0
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

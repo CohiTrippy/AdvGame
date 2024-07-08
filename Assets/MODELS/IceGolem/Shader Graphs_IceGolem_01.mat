@@ -92,8 +92,8 @@ Material:
     m_Floats:
     - _BottomLine: 1
     - _Float: 0
-    - _Fresnel_Size: 0.66
-    - _Fresnel_Strength: 0.18
+    - _Fresnel_Size: 0
+    - _Fresnel_Strength: 0
     - _Metallic: 1
     - _Metallic_Intensity: 0.2
     - _MinimumEmmission: 0.87
@@ -111,7 +111,7 @@ Material:
     - _RefractStrength: 1
     - _Refraction: 0
     - _Smoothnes: 1
-    - _Snow_Amount: 59
+    - _Snow_Amount: 82
     - _Snow_Opacity: 0
     - _Strength: 0.296
     - _TopLine: 1

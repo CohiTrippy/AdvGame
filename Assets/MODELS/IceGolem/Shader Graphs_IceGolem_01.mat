@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_IceGolem_01
+  m_Shader: {fileID: -6465566751694194690, guid: 6c4ee27bfe871a14b89e6c8965bd998f,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: c38e92316951083449928db6bd6e5987, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CrackMask:
+        m_Texture: {fileID: 2800000, guid: 136133fb459ab9e4581d40f96bfefdf9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emmission:
+        m_Texture: {fileID: 2800000, guid: f167da520d00fdc43b751d42ea48c656, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metallic:
+        m_Texture: {fileID: 2800000, guid: f8436f7a63fbb1949bc9b505cd4bfcb3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicTex:
+        m_Texture: {fileID: 2800000, guid: d877fc73e84fef94c9d3185d7f3c7866, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NewShaderSubGraph_2830a486c24145579227ab6219981f3f_CrackMask_2122063404_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 88bcd91a5af5aa747aaa849e1c3788d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 1e3712c1adb98564b965710d7c477d9d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxTex:
+        m_Texture: {fileID: 2800000, guid: 6dad9440091507942b50b0e787c695d4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_06f6100a8c59411e849d67de0d9e9939_Texture_1_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_abf34fc2280043f8ba319279e0576745_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 4288d86883507c74b9a4b474925c47a3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_fc2ac3f03b9b498dbacec878376a47c0_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f8436f7a63fbb1949bc9b505cd4bfcb3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_da400ff4777c4967abe99e4a6a4b4ee3_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fb87cf5985e603d408cb7308173cd183, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Transparency:
+        m_Texture: {fileID: 2800000, guid: cc3f818570ddcc24fa2e2aa942630fd8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BottomLine: 1
+    - _Float: 0
+    - _Fresnel_Size: 0.66
+    - _Fresnel_Strength: 0.18
+    - _Metallic: 1
+    - _Metallic_Intensity: 0.2
+    - _MinimumEmmission: 0.87
+    - _Noise_Amount: 0.053
+    - _Noise_Scale: 4.51
+    - _Normal_Intensity: 2.98
+    - _Offset: 0.457
+    - _Offset_View: 0.31
+    - _Opacity: 1
+    - _ParallaxOffset: -0.00153
+    - _ParallaxStrength: 6.65
+    - _PulseSpeed: 0.52
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RefractStrength: 1
+    - _Refraction: 0
+    - _Smoothnes: 1
+    - _Snow_Amount: 59
+    - _Snow_Opacity: 0
+    - _Strength: 0.296
+    - _TopLine: 1
+    - _Transparency_Intensity: 1
+    m_Colors:
+    - _BottomColor: {r: 0.07962639, g: 0, b: 1.8660661, a: 1}
+    - _Color: {r: 0.09507737, g: 0.09510476, b: 1.3437604, a: 1}
+    - _Fresnel_Color: {r: 0.2055823, g: 2.428814, b: 4.8426075, a: 0}
+    - _IceTiling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &5871560838067517252
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7

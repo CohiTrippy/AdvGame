@@ -83,7 +83,7 @@ AnimatorController:
   m_Name: ctrl_IceGolem
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: IdleWalkRun
+  - m_Name: Speed
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -122,7 +122,7 @@ AnimatorStateMachine:
     m_Position: {x: 180, y: -140, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4252695227700423912}
-    m_Position: {x: 0, y: 110, z: 0}
+    m_Position: {x: 0, y: 150, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4269642903313671214}
     m_Position: {x: 560, y: 50, z: 0}
@@ -131,7 +131,7 @@ AnimatorStateMachine:
     m_Position: {x: 370, y: -20, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4051312398726513491}
-    m_Position: {x: 270, y: 90, z: 0}
+    m_Position: {x: 0, y: 60, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1107803197517129623}
     m_Position: {x: 580, y: 170, z: 0}
@@ -144,7 +144,7 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 50, y: 330, z: 0}
+  m_AnyStatePosition: {x: -210, y: 160, z: 0}
   m_EntryPosition: {x: -150, y: -20, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
@@ -311,7 +311,7 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: IdleWalkRun
     m_Mirror: 0
-  m_BlendParameter: IdleWalkRun
+  m_BlendParameter: Speed
   m_BlendParameterY: IdleWalkRun
   m_MinThreshold: 0
   m_MaxThreshold: 1

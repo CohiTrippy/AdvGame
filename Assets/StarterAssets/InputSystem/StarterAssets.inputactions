@@ -42,7 +42,7 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "R",
+                    "name": "Shead",
                     "type": "Button",
                     "id": "cb8ca3f1-a00c-4962-b66f-8f872fbae9ac",
                     "expectedControlType": "Button",
@@ -231,11 +231,22 @@
                 {
                     "name": "",
                     "id": "b127d800-fe6f-4958-8a36-25ec25018be9",
-                    "path": "",
+                    "path": "<Keyboard>/r",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "R",
+                    "action": "Shead",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "79dc084b-bfc4-400a-b624-ddb16ef4ea2f",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shead",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

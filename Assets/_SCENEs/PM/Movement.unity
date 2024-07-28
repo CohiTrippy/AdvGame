@@ -123,6 +123,33 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 23800000, guid: 76309e03ec430344b9d8c6819f978a05, type: 2}
+--- !u!1 &154077840 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2833342187549330767, guid: e49773e460d5bae428a3e34f35beb80f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1038367683}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &154077848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 154077840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c6b64debc04885409c4e052c0762bcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerAnim: {fileID: 0}
+  sword: {fileID: 0}
+  swordOnShoulder: {fileID: 0}
+  isEquipping: 0
+  isEquipped: 0
+  isBlocking: 0
+  isKicking: 0
+  isAttacking: 0
+  currentAttack: 0
 --- !u!1 &159224757
 GameObject:
   m_ObjectHideFlags: 0
@@ -806,12 +833,16 @@ PrefabInstance:
     - target: {fileID: 6095898374893367752, guid: e49773e460d5bae428a3e34f35beb80f,
         type: 3}
       propertyPath: m_TagString
-      value: Player
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2833342187549330767, guid: e49773e460d5bae428a3e34f35beb80f,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 154077848}
   m_SourcePrefab: {fileID: 100100000, guid: e49773e460d5bae428a3e34f35beb80f, type: 3}
 --- !u!4 &1250578518 stripped
 Transform:
@@ -4423,7 +4454,7 @@ PrefabInstance:
     - target: {fileID: 2217596559483058588, guid: 73902681b7290624d8fa758f7d2e4c82,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 30.31
+      value: -38.31
       objectReference: {fileID: 0}
     - target: {fileID: 2217596559483058588, guid: 73902681b7290624d8fa758f7d2e4c82,
         type: 3}
@@ -4433,7 +4464,7 @@ PrefabInstance:
     - target: {fileID: 2217596559483058588, guid: 73902681b7290624d8fa758f7d2e4c82,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 42.7
+      value: 70.1
       objectReference: {fileID: 0}
     - target: {fileID: 2217596559483058588, guid: 73902681b7290624d8fa758f7d2e4c82,
         type: 3}
@@ -4474,6 +4505,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: pfb_AI_Enemy_Jaguar
+      objectReference: {fileID: 0}
+    - target: {fileID: 6691750757289221526, guid: 73902681b7290624d8fa758f7d2e4c82,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -418,6 +418,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -4.011
       objectReference: {fileID: 0}
+    - target: {fileID: 534497285641325301, guid: e49773e460d5bae428a3e34f35beb80f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 626427061131807824, guid: e49773e460d5bae428a3e34f35beb80f,
         type: 3}
       propertyPath: m_Enabled
@@ -497,6 +502,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0.0116672795
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212949546737787502, guid: e49773e460d5bae428a3e34f35beb80f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1239134980802549877, guid: e49773e460d5bae428a3e34f35beb80f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1334120797944086129, guid: e49773e460d5bae428a3e34f35beb80f,
         type: 3}
@@ -897,6 +912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: -0.020299504
+      objectReference: {fileID: 0}
+    - target: {fileID: 2912847415161029643, guid: e49773e460d5bae428a3e34f35beb80f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3151241228865168469, guid: e49773e460d5bae428a3e34f35beb80f,
         type: 3}
@@ -4540,7 +4560,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 162219728}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -15624,7 +15644,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3a458e0716997a4c931d6b8507c5e43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pauseKey: 112
 --- !u!4 &1498106141
 Transform:
   m_ObjectHideFlags: 0

@@ -22,9 +22,21 @@ MonoBehaviour:
       networkSync: 0
       value: 0
     boolVariables: []
-    stringVariables: []
+    stringVariables:
+    - useVariable: 1
+      name: checkpoint_Position
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
     vector2Variables: []
-    vector3Variables: []
+    vector3Variables:
+    - useVariable: 1
+      name: OwnerPosition
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {x: 0, y: 0, z: 0}
     colorVariables: []
     rectVariables: []
     quaternionVariables: []
@@ -36,10 +48,12 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000
+    variableCategoryIDs: 000000000000000000000000
   events:
   - TurnOff
   - TurnOn
   - TurOffLOS
   - TurnOffLOS
   - TurnOnLOS
+  - Attacking
+  - Neutral

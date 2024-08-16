@@ -90,31 +90,31 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BottomLine: 1
+    - _BottomLine: 0.839
     - _Float: 0
     - _Fresnel_Size: 1
-    - _Fresnel_Strength: 0.353
+    - _Fresnel_Strength: 0.426
     - _Metallic: 1
     - _Metallic_Intensity: 0.2
-    - _MinimumEmmission: 0.286
+    - _MinimumEmmission: 0.317
     - _Noise_Amount: -0.1
     - _Noise_Scale: 191.87
-    - _Normal_Intensity: 2.96
+    - _Normal_Intensity: 2.39
     - _Offset: 0.457
     - _Offset_View: 0.007
     - _Opacity: 1
     - _ParallaxOffset: -0.006
     - _ParallaxStrength: 6.65
-    - _PulseSpeed: 0.191
+    - _PulseSpeed: 0.116
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RefractStrength: 1
     - _Refraction: 0
     - _Smoothnes: 1
-    - _Snow_Amount: 76.1
+    - _Snow_Amount: 36.3
     - _Snow_Opacity: 0
     - _Strength: 0.296
-    - _TopLine: 1
+    - _TopLine: 0.908
     - _Transparency_Intensity: 1
     m_Colors:
     - _BottomColor: {r: 0, g: 69.64091, b: 166.92725, a: 1}

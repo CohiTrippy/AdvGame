@@ -7,6 +7,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mtl_Bermuda
+    second: {fileID: 2100000, guid: e5fb483b66dc02f41af7bc60c6137c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Cintos_A
+    second: {fileID: 2100000, guid: 72a6ef8be8fd66343bac2e4ff3aca83f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mtl_Cohi_Accesorios_Trans
     second: {fileID: 2100000, guid: 592e92034f1d0ac41ad4cd4fd578061d, type: 2}
   - first:
@@ -32,8 +42,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mtl_Eye1
+    second: {fileID: 2100000, guid: 698f4353c48221d428331862eb360b1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mtl_EyeLashes
     second: {fileID: 2100000, guid: 195187a193904144792f87a598f81f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_EyeLashes2
+    second: {fileID: 2100000, guid: 11f13cf442822fa45869ae04beb8495b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -72,6 +92,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mtl_Parpados1
+    second: {fileID: 2100000, guid: d6c70c6ab4f9574479b7ca193245e488, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Pesqueros
+    second: {fileID: 2100000, guid: 45a3a011fd445b04aa268de4d91eb319, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mtl_Shoes
     second: {fileID: 2100000, guid: 017e8dc46e731f64bb56bac928bab7c2, type: 2}
   - first:
@@ -92,6 +122,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mtl_Sweater
+    second: {fileID: 2100000, guid: f95ae4bb464374e46b9f051f2534f1ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mtl_TankTop
     second: {fileID: 2100000, guid: 62a1c9dad2ecd6643bfd36c951ac0915, type: 2}
   - first:
@@ -104,6 +139,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mtl_Thin_Tanktop
     second: {fileID: 2100000, guid: e6ec76d2875544442885fe2e3d7b1f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Thin_V_Shirt
+    second: {fileID: 2100000, guid: da909a4dd034145409d8803c145213e0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -142,7 +182,11 @@ ModelImporter:
     removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
-    rigImportWarnings: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
+      does not match position in animation file:\n\t'mixamorig:LeftUpLeg' : position
+      error = 11.723463 mm\n\t'mixamorig:LeftLeg' : position error = 5.603377 mm\n\t'mixamorig:RightUpLeg'
+      : position error = 9.525434 mm\n\t'mixamorig:RightLeg' : position error = 5.558948
+      mm\n\t'mixamorig:RightToeBase' : position error = 1.085410 mm\n"
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 

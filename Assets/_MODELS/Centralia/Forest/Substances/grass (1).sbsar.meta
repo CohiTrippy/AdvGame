@@ -14,7 +14,7 @@ ScriptedImporter:
   - graphLabel: Grass
     prototypeName: Grass
     graphDescIndex: 0
-    generateAllOutputs: 0
+    generateAllOutputs: 1
     generateMipMaps: 1
     preset: " <sbspreset pkgurl=\"pkg://Grass\" label=\"\" >\n  <presetinput identifier=\"$outputsize\"
       uid=\"3399204861\" type=\"8\" value=\"9,9\" />\n </sbspreset>\n"
@@ -193,7 +193,7 @@ ScriptedImporter:
       usage: 34
       bImage: 1
       bNumerical: 0
-      bLinear: 1
+      bLinear: 0
     - outputName: ambientOcclusion
       identifier: AO
       usageName: ambientOcclusion
@@ -202,7 +202,7 @@ ScriptedImporter:
       usage: 5
       bImage: 1
       bNumerical: 0
-      bLinear: 1
+      bLinear: 0
     - outputName: height
       identifier: Height
       usageName: height
@@ -284,5 +284,7 @@ ScriptedImporter:
     generatedTextures:
     - {fileID: -3445902180689000385, guid: 9a0595b710dd1b944be3cf9dc0eb8c7f, type: 3}
     - {fileID: 3659445971192475515, guid: 9a0595b710dd1b944be3cf9dc0eb8c7f, type: 3}
+    - {fileID: -7431793274169205539, guid: 9a0595b710dd1b944be3cf9dc0eb8c7f, type: 3}
     - {fileID: -5954771927889502784, guid: 9a0595b710dd1b944be3cf9dc0eb8c7f, type: 3}
     - {fileID: 7456285904108322170, guid: 9a0595b710dd1b944be3cf9dc0eb8c7f, type: 3}
+    - {fileID: -8042641701371684872, guid: 9a0595b710dd1b944be3cf9dc0eb8c7f, type: 3}

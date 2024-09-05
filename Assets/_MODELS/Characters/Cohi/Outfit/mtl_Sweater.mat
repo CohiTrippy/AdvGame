@@ -107,7 +107,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _EmissionIntesnity: 1
+    - _EmissionIntesnity: 0.92
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.4472136
